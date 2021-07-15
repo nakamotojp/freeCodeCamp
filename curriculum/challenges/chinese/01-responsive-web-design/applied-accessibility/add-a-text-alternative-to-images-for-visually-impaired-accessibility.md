@@ -1,6 +1,6 @@
 ---
 id: 587d774c367417b2b2512a9c
-title: 为视觉障碍用户添加替代图像的文本
+title: Add a Text Alternative to Images for Visually Impaired Accessibility
 challengeType: 0
 videoUrl: 'https://scrimba.com/c/cPp7VfD'
 forumTopicId: 16628
